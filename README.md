@@ -2,7 +2,7 @@
 
 <h1 align="center">Prazer, me chamo Beatriz 👋</h1> 
 
-<p align="center"><strong>Iniciei na tecnologia em 2013, atuo com Desenvolvimento Front-End utilizando Angular JS.</strong></p>
+<p align="center"><strong>Iniciei na tecnologia em 2013, atuo com Desenvolvimento Front-End utilizando JavaScript, Angular JS, HTML e CSS.</strong></p>
 
 ## Interesses
 
@@ -30,7 +30,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BeatrizGivisiez&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGivisiez&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/BeatrizGivisiez/github-readme-stats)
 
-## Contato
+## Contatos
 
 💌 beatriz.givisiez@hotmail.com
 
