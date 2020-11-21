@@ -36,7 +36,12 @@
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
 </p>
 
+
+[![Twitter: BeatrizGivisiez](https://img.shields.io/twitter/follow/BeatrizGivisiez?style=social)](https://twitter.com/BeatrizGivisiez) 
+[![GitHub BeatrizGivisiez](https://img.shields.io/github/followers/BeatrizGivisiez?label=follow&style=social)](https://github.com/BeatrizGivisiez)
+
 <p align="left">
+ 
   <a href="mailto:beatriz.givisiez@hotmail.com" alt="Hotmail">
   <img src="https://img.shields.io/badge/-Hotmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=beatriz.givisiez@hotmail.com" /></a>
 
@@ -49,15 +54,5 @@
    <a href="https://www.instagram.com/bia.givisiez/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bia.givisiez/"/></a>
 </p>  
-
-
-
-💌 beatriz.givisiez@hotmail.com
-
-[![Twitter: BeatrizGivisiez](https://img.shields.io/twitter/follow/BeatrizGivisiez?style=social)](https://twitter.com/BeatrizGivisiez) 
-
-[![Linkedin: BeatrizGivisiez](https://img.shields.io/badge/-BeatrizGivisiez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-givisiez/)](https://www.linkedin.com/in/beatriz-givisiez/) 
-
-[![GitHub BeatrizGivisiez](https://img.shields.io/github/followers/BeatrizGivisiez?label=follow&style=social)](https://github.com/BeatrizGivisiez)
 
 <p align="center">Na vida profissional, determinação vale mais do que talento. Você já tentou parar alguém determinado? Persistência é a palavra-chave.</p>
