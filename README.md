@@ -32,11 +32,11 @@
 
 ## Contatos
 
-<p align="center">
+<p align="left">
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:beatriz.givisiez@hotmail.com" alt="Hotmail">
   <img src="https://img.shields.io/badge/-Hotmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=beatriz.givisiez@hotmail.com" /></a>
   <a href="https://www.linkedin.com/in/beatriz-givisiez" alt="Linkedin">
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bia.givisiez/"/></a>
   </p>
   <a href="https://twitter.com/BeatrizGivisiez" alt="Twiter">
-  <img src="https://img.shields.io/twitter/follow/BeatrizGivisiez?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/BeatrizGivisiez" /></a>
+  <img src="https://img.shields.io/twitter/follow/BeatrizGivisiez-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/BeatrizGivisiez" /></a>
   
   [![Twitter: BeatrizGivisiez](https://img.shields.io/twitter/follow/BeatrizGivisiez?style=social)](https://twitter.com/BeatrizGivisiez) 
 [![GitHub BeatrizGivisiez](https://img.shields.io/github/followers/BeatrizGivisiez?label=follow&style=social)](https://github.com/BeatrizGivisiez)
