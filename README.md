@@ -46,7 +46,7 @@
   <a href="https://www.instagram.com/bia.givisiez/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bia.givisiez/"/></a>
   <a href="https://www.twitter.com/BeatrizGivisiez" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.twitter.com/BeatrizGivisiez" /></a>
+  <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/BeatrizGivisiez" /></a>
 </p>
 
 [![Twitter: BeatrizGivisiez](https://img.shields.io/twitter/follow/BeatrizGivisiez?style=social)](https://twitter.com/BeatrizGivisiez)
