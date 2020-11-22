@@ -38,7 +38,7 @@
 
 <p align="left">
   <a href="mailto:beatriz.givisiez@hotmail.com" alt="Hotmail">
-  <img src="https://img.shields.io/badge/-Hotmail-e34c41?style=flat-square&labelColor=e34c41&logo=hotmail&logoColor=white&link=beatriz.givisiez@hotmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Hotmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=beatriz.givisiez@hotmail.com" /></a>
   <a href="https://www.linkedin.com/in/beatriz-givisiez" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-givisiez" /></a>
   <a href="https://api.whatsapp.com/send?phone=5524998380056&text=Olá%20Beatriz,%20tudo%20bem?" alt="WhatsApp">
