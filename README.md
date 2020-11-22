@@ -46,7 +46,7 @@
   <a href="https://www.instagram.com/bia.givisiez/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bia.givisiez/"/></a></p>
 
-[![Twitter: BeatrizGivisiez](https://img.shields.io/twitter/Twitter/BeatrizGivisiez?style=social)](https://twitter.com/BeatrizGivisiez)
+[![Twitter: BeatrizGivisiez](https://img.shields.io/twitter/follow/BeatrizGivisiez?style=social)](https://twitter.com/BeatrizGivisiez)
 
 [![GitHub BeatrizGivisiez](https://img.shields.io/github/followers/BeatrizGivisiez?label=follow&style=social)](https://github.com/BeatrizGivisiez)
 
