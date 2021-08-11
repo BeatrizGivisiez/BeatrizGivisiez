@@ -1,12 +1,12 @@
 <img width="auto" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1596557625/ru5sj2goboqrtxl5d8m1.png"><br>
 
-<h1 align="center">Prazer, me chamo Beatriz 👋</h1> 
+<h1 align="center">Prazer, sou Beatriz Givisiez 👋</h1> 
 
-<p align="center"><strong>Iniciei na tecnologia em 2013, atuo com Desenvolvimento Front-End utilizando Frameworks JavaScript.</strong></p>
+<p align="center"><strong>Iniciei na tecnologia em 2012 e trabalho Front-End desde 2013, atualmente utilizando Frameworks JavaScript!</strong></p>
 
 ## Interesses
 
-<p align="justify">Atuo como Engenheira de Software FrontEnd onde meus conhecimentos se baseiam, Estou me especializando em Engenharia de Software e aplicações Back-End com NodeJS. Atualmente desenvolvo com React JS e Knockout JS Open Soucer no cliente Localiza, mas também trabalhei com Angular nas minhas duas últimas empresas. Trabalho com metodologia ágeis Scrum e aqui dividirei com vocês projetos e repositórios bem legais. Busco compartilhar conhecimento e aprendizagem. Ideias só se multiplicam com colaboração e dedicação!</p>
+<p align="justify">Sou Engenheira de Software FrontEnd onde meus conhecimentos se baseiam, Curso Pós-Graduação em Engenharia de Software e estou estudando aplicações Back-End com NodeJS. Atualmente desenvolvo com React JS e Knockout JS Open Soucer no cliente Localiza, mas também trabalhei com Angular nas minhas duas últimas empresas. Trabalho com metodologia ágeis Scrum e aqui dividirei com vocês repositórios e projetos bem legais, busco compartilhar conhecimento e aprendizagem. Ideias só se multiplicam com colaboração e dedicação!</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
