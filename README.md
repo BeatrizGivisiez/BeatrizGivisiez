@@ -6,7 +6,7 @@
 
 ## Interesses
 
-<p align="justify">Atuo como Desenvolvedora Front-End Angular onde meus conhecimentos se baseiam, tenho interesse de me especializar em aplicações Back-End com NodeJS. Estudo React, React Native e tecnologias ágeis como Scrum e Kanban. Aqui dividirei com vocês projetos bem legais. Busco contribuir com os meus conhecimentos a aqueles que adoram aprender e ensinar os que valorizam o conhecimento. Reconhecendo a importância dos principios ágeis e da melhoria continua. Ideias só se multiplicam com colaboração e dedicação!</p>
+<p align="justify">Atuo como Engenheira de Software FrontEnd onde meus conhecimentos se baseiam, Estou me especializando em Engenharia de Software e aplicações Back-End com NodeJS. Atualmente desenvolvo com React JS e Knockout JS Open Soucer no cliente Localiza, mas também trabalhei com Angular nas minhas duas últimas empresas. Trabalho com metodologia ágeis Scrum e aqui dividirei com vocês projetos e repositórios bem legais. Busco compartilhar conhecimento e aprendizagem. Ideias só se multiplicam com colaboração e dedicação!</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
