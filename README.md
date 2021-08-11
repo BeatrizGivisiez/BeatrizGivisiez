@@ -6,7 +6,7 @@
 
 ## Interesses
 
-<p align="justify">Sou Engenheira de Software FrontEnd onde meus conhecimentos se baseiam, Curso Pós-Graduação em Engenharia de Software e estou estudando aplicações Back-End com NodeJS. Atualmente desenvolvo com React JS e Knockout JS Open Soucer no cliente Localiza, mas também trabalhei com Angular nas minhas duas últimas empresas. Trabalho com metodologia ágeis Scrum e aqui dividirei com vocês repositórios e projetos bem legais, busco compartilhar conhecimento e aprendizagem. Ideias só se multiplicam com colaboração e dedicação!</p>
+<p align="justify">Sou Engenheira de Software Front-End onde meus conhecimentos se baseiam, Curso Pós-Graduação em Engenharia de Software e estou estudando aplicações Back-End com NodeJS. Atualmente desenvolvo com ReactJS e KnockoutJS Open Soucer no cliente Localiza, mas também trabalhei com Angular nas minhas duas últimas empresas. Trabalho com metodologia ágeis Scrum e aqui dividirei com vocês repositórios e projetos bem legais, busco compartilhar conhecimento e aprendizagem. Ideias só se multiplicam com colaboração e dedicação!</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
