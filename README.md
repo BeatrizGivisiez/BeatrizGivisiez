@@ -26,9 +26,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## Estatísticas
+<div align="center">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BeatrizGivisiez&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGivisiez&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/BeatrizGivisiez/github-readme-stats)
+</div>
 
 ## Contatos
 
