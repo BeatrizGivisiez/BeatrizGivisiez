@@ -6,7 +6,7 @@
 
 ## Interesses
 
-<p align="justify">Atuo como Engenheira de Software Front-End, sou Pós-Graduação em Engenharia de Software e Graduação em Sistema de Informação. Estudo também aplicações Back-End com NodeJS. Tenho experiência com Framework JavaScript/TypeScript ReactJS e KnockoutJS open soucer e Angular. Trabalho com metodologia ágeis Scrum e Kanban. Aqui dividirei com vocês repositórios e projetos bem legais, busco compartilhar conhecimento e aprendizagem. Ideias só se multiplicam com colaboração e dedicação!</p>
+<p align="justify">Atuo como Engenheira de Software Front-End, sou Pós-Graduação em Engenharia de Software e Graduada em Sistema de Informação. Estudo também aplicações Back-End com NodeJS. Tenho experiência com Framework JavaScript/TypeScript ReactJS e KnockoutJS open soucer e Angular. Trabalho com metodologia ágeis Scrum e Kanban. Aqui dividirei com vocês repositórios e projetos bem legais, busco compartilhar conhecimento e aprendizagem. Ideias só se multiplicam com colaboração e dedicação!</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
