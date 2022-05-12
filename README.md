@@ -2,11 +2,11 @@
 
 <h1 align="center">Prazer, sou Beatriz Givisiez 👋</h1> 
 
-<p align="center"><strong>Iniciei na tecnologia em 2012 e trabalho Front-End desde 2013, atualmente utilizando Frameworks JavaScript!</strong></p>
+<p align="center"><strong>Iniciei na tecnologia em 2012 e trabalho com Front-End desde 2013, atualmente utilizando Frameworks JavaScript!</strong></p>
 
 ## Interesses
 
-<p align="justify">Sou Engenheira de Software Front-End onde meus conhecimentos se baseiam, Curso Pós-Graduação em Engenharia de Software e Especialização em Lei Geral de Proteção de Dados (LGPD). Estudo também aplicações Back-End com NodeJS. Atualmente desenvolvo com ReactJS e KnockoutJS open soucer no cliente Localiza, mas tenho em minhas duas últimas experiência desenvolvimento com Angular. Trabalho com metodologia ágeis Scrum e Kanban. Aqui dividirei com vocês repositórios e projetos bem legais, busco compartilhar conhecimento e aprendizagem. Ideias só se multiplicam com colaboração e dedicação!</p>
+<p align="justify">Atuo como Engenheira de Software Front-End, tenho Pós-Graduação em Engenharia de Software e Graduação em Sistema de Informação. Estudo também aplicações Back-End com NodeJS. Tenho experiência com Framework JavaScript/TypeScript ReactJS e KnockoutJS open soucer e Angular. Trabalho com metodologia ágeis Scrum e Kanban. Aqui dividirei com vocês repositórios e projetos bem legais, busco compartilhar conhecimento e aprendizagem. Ideias só se multiplicam com colaboração e dedicação!</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
