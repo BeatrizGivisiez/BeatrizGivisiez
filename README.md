@@ -39,14 +39,14 @@
 ## Contacts
 
 <div align="left">    
- <a href="mailto:beatriz.givisiez@hotmail.com" alt="Hotmail" target="_blank">
+ <a href="mailto:beatriz.givisiez@hotmail.com" alt="Email" target="_blank">
   <img src="https://img.shields.io/badge/-Hotmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=beatriz.givisiez@hotmail.com" />
  </a>
  <a href="https://www.linkedin.com/in/biagivisiez" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a> 
  <a href="https://api.whatsapp.com/send?phone=5524998380056&text=Olá%20Beatriz,%20tudo%20bem?" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5524998380056&text=Olá%20Beatriz,%20tudo%20bem?"/>
+  <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5524998380056"/>
  </a> 
  <a href="https://www.facebook.com/bia.givisiez/" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
