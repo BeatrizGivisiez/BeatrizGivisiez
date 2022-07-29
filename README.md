@@ -4,13 +4,13 @@
 
 <p align="center"><strong>Software specialist with undergraduation degree in Computer Information Systems.</strong></p>
 
-## Interesses
+## Interests
 
 <p align="justify">8+ years experience in technology area, currently working as a Front-End Software Engineer, applying JavaScript Frameworks. Also have experience using ReactJS, NextJS, KnockoutJS and Angular frameworks.</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
-## Habilidades
+## Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -32,10 +32,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGivisiez&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/BeatrizGivisiez/github-readme-stats)
 </div>
 
-## Contatos
+## Contacts
 
 <p align="left">
-  💌 Contacts ⤵️
+  💌⤵️
 </p>
 
 <p align="left">
