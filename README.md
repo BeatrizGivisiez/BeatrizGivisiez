@@ -1,12 +1,12 @@
 <img width="auto" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1596557625/ru5sj2goboqrtxl5d8m1.png"><br>
 
-<h1 align="center">Prazer, sou Beatriz Givisiez 👋</h1> 
+<h1 align="center">Hello world, my name's Beatriz Givisiez 👋</h1> 
 
-<p align="center"><strong>Iniciei na tecnologia em 2012 e trabalho com Front-End desde 2013, atualmente utilizando Frameworks JavaScript!</strong></p>
+<p align="center"><strong>Software specialist with undergraduation degree in Computer Information Systems.</strong></p>
 
 ## Interesses
 
-<p align="justify">Atuo como Engenheira de Software Front-End, sou Pós-Graduação em Engenharia de Software e Graduada em Sistema de Informação. Estudo também aplicações Back-End com NodeJS. Tenho experiência com Framework JavaScript/TypeScript ReactJS e KnockoutJS open soucer e Angular. Trabalho com metodologia ágeis Scrum e Kanban. Aqui dividirei com vocês repositórios e projetos bem legais, busco compartilhar conhecimento e aprendizagem. Ideias só se multiplicam com colaboração e dedicação!</p>
+<p align="justify">8+ years experience in technology area, currently working as a Front-End Software Engineer, applying JavaScript Frameworks. Also have experience using ReactJS, NextJS, KnockoutJS and Angular frameworks.</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
@@ -35,7 +35,7 @@
 ## Contatos
 
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+  💌 Contacts ⤵️
 </p>
 
 <p align="left">
