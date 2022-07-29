@@ -1,4 +1,17 @@
-<img width="auto" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1596557625/ru5sj2goboqrtxl5d8m1.png"><br>
+ <div>  
+   <img 
+        height="180em" 
+        width="400em" 
+        src="https://github-readme-stats.vercel.app/api?username=givisiez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Minhas estatísticas"
+   />
+   <img 
+        height="180em" 
+        width="400em" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=givisiez&layout=compact&langs_count=7&theme=tokyonight&custom_title=Linguagens mais usadas"
+   /> 
+</div>
+
+
 
 <h1 align="center">Hello world, i'm Beatriz Givisiez 👋</h1> 
 
@@ -53,5 +66,5 @@
   <a href="https://www.github.com/BeatrizGivisiez" alt="Github">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/BeatrizGivisiez" /></a>
 </p>
-
+<img width="auto" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1596557625/ru5sj2goboqrtxl5d8m1.png"><br>
 <p align="center">Na vida profissional, determinação vale mais do que talento. Você já tentou parar alguém determinado? Persistência é a palavra-chave.</p>
