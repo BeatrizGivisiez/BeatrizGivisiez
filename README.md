@@ -93,7 +93,7 @@
        title="Angular" 
        height="30" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"
   > 
   <img 
        align="center" 
@@ -141,7 +141,7 @@
        title="YARN" 
        height="30" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg"
  >
  <img 
        align="center" 
