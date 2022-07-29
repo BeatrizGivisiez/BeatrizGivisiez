@@ -19,7 +19,8 @@
 
 <p align="justify">8+ years experience in technology area, currently working as a Front-End Software Engineer, applying JavaScript Frameworks. Also have experience using ReactJS, NextJS, KnockoutJS and Angular frameworks.</p>
 
-![Profile views Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez&color=yellow)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BeatrizGivisiez&color=yellow" alt="Profile views" /> </p>
 
 ## Skills
