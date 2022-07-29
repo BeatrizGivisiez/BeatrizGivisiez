@@ -23,38 +23,6 @@
 
 ## Skills
 <div>  
-  <img 
-       align="center" 
-       alt="HTML" 
-       title="HTML" 
-       height="30" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-  >
-  <img 
-       align="center" 
-       alt="CSS" 
-       title="CSS" 
-       height="30" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-  >   
-  <img 
-       align="center" 
-       alt="Bootstrap" 
-       title="Bootstrap" 
-       height="30" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
-  >  
-  <img 
-       align="center" 
-       alt="Sass"
-       title="Sass"
-       height="30" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-  >
  <img 
        align="center" 
        alt="NodeJs" 
@@ -97,6 +65,46 @@
   > 
   <img 
        align="center" 
+       alt="HTML" 
+       title="HTML" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  >
+  <img 
+       align="center" 
+       alt="CSS" 
+       title="CSS" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  >   
+ <img 
+       align="center" 
+       alt="Sass"
+       title="Sass"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+  >
+  <img 
+       align="center" 
+       alt="Bootstrap" 
+       title="Bootstrap" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
+  >  
+ <img 
+       align="center" 
+       alt="PHP" 
+       title="PHP"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"
+  >
+  <img 
+       align="center" 
        alt="MySQL" 
        title="MySQL" 
        height="30" 
@@ -105,12 +113,12 @@
   >
   <img 
        align="center" 
-       alt="PHP" 
-       title="PHP"
+       alt="Git" 
+       title="Git" 
        height="30" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"
-  >
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+ > 
   <img 
        align="center" 
        alt="Github" 
@@ -152,20 +160,6 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
  > 
 </div>
-
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## Contacts
 
