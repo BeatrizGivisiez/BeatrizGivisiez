@@ -13,36 +13,52 @@
 <div align="center">  
  <img 
        align="center" 
-       alt="NodeJs" 
-       title="NodeJs" 
+       alt="NodeJS" 
+       title="NodeJS" 
        height="30" 
        width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
   >
   <img 
        align="center" 
-       alt="Js" 
-       title="Javascript" 
+       alt="JavaScript" 
+       title="JavaScript" 
        height="30" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   >
   <img 
        align="center" 
-       alt="Ts" 
-       title="Typescript" 
+       alt="TypeScript" 
+       title="TypeScript" 
        height="30" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
   >
   <img 
        align="center" 
-       alt="React" 
-       title="React" 
+       alt="ReactJS" 
+       title="ReactJS" 
        height="30" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   >
+ <img 
+       align="center" 
+       alt="NextJS" 
+       title="NextJS" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+  >
+  <img 
+       align="center" 
+       alt="KnockoutJS" 
+       title="KnockoutJS" 
+       height="50" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/knockout/knockout-plain-wordmark.svg"
+ >
   <img 
        align="center" 
        alt="Angular" 
@@ -53,16 +69,16 @@
   > 
   <img 
        align="center" 
-       alt="HTML" 
-       title="HTML" 
+       alt="HTML5" 
+       title="HTML5" 
        height="30" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
   >
   <img 
        align="center" 
-       alt="CSS" 
-       title="CSS" 
+       alt="CSS3" 
+       title="CSS3" 
        height="30" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
@@ -77,11 +93,43 @@
   >
   <img 
        align="center" 
+       alt="Tailwind CSS"
+       title="Tailwind CSS"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+  > 
+ <img 
+       align="center" 
+       alt="Material Ui"
+       title="Material Ui"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
+  > 
+  <img 
+       align="center" 
+       alt="Jest" 
+       title="Jest" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
+ > 
+  <img 
+       align="center" 
        alt="Bootstrap" 
        title="Bootstrap" 
        height="30" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
+  >  
+ <img 
+       align="center" 
+       alt="Storybook" 
+       title="Storybook" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg"
   >  
  <img 
        align="center" 
@@ -107,14 +155,6 @@
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
  > 
-  <img 
-       align="center" 
-       alt="Github" 
-       title="Github" 
-       height="30" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
- >  
  <img 
        align="center" 
        alt="GitLab" 
@@ -139,15 +179,34 @@
        width="60" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg"
  >
+  <img 
+       align="center" 
+       alt="Azure DevOps" 
+       title="Azure DevOps" 
+       height="50" 
+       width="60" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg"
+ > 
  <img 
        align="center" 
-       alt="VsCode" 
-       title="VsCode" 
+       alt="Bitbucket" 
+       title="Bitbucket" 
        height="30" 
        width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg"
  > 
+ <img 
+       align="center" 
+       alt="Confluence" 
+       title="Confluence" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg"
+ > 
+
+ 
 </div>
+
 
 -----------
 <br>
