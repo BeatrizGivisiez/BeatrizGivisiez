@@ -11,7 +11,7 @@
    /> 
 </div>
 
-<h1 align="center">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Beatriz Givisiez 👋</h1> 
+<h1 align="center">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Beatriz Givisiez!</h1> 
 
 <p align="center"><strong>Software specialist with undergraduation degree in Computer Information Systems.</strong></p>
 
@@ -19,7 +19,8 @@
 
 <p align="justify">8+ years experience in technology area, currently working as a Front-End Software Engineer, applying JavaScript Frameworks. Also have experience using ReactJS, NextJS, KnockoutJS and Angular frameworks.</p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
+![Profile views Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BeatrizGivisiez&color=yellow" alt="Profile views" /> </p>
 
 ## Skills
 <div>  
