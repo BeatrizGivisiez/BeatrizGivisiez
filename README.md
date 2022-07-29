@@ -1,6 +1,6 @@
 <img width="auto" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1596557625/ru5sj2goboqrtxl5d8m1.png"><br>
 
-<h1 align="center">Hello world, my name's Beatriz Givisiez 👋</h1> 
+<h1 align="center">Hello world, i'm Beatriz Givisiez 👋</h1> 
 
 <p align="center"><strong>Software specialist with undergraduation degree in Computer Information Systems.</strong></p>
 
