@@ -1,13 +1,13 @@
- <div>  
+ <div align="center">  
    <img 
         height="180em" 
         width="400em" 
-        src="https://github-readme-stats.vercel.app/api?username=givisiez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Minhas estatísticas"
+        src="https://github-readme-stats.vercel.app/api?username=BeatrizGivisiez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Minhas estatísticas"
    />
    <img 
         height="180em" 
         width="400em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=givisiez&layout=compact&langs_count=7&theme=tokyonight&custom_title=Linguagens mais usadas"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGivisiez&layout=compact&langs_count=7&theme=tokyonight&custom_title=Linguagens mais usadas"
    /> 
 </div>
 
