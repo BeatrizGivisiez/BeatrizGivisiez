@@ -6,119 +6,11 @@
 <p align="justify">Software specialist with undergraduation degree in Computer Information Systems.</p>
 <p align="justify">8+ years experience in technology area, currently working as a Front-End Software Engineer, applying JavaScript Frameworks. Also have experience using ReactJS, NextJS, KnockoutJS and Angular frameworks.</p>
 
-<br><br>
+-----------
+<br>
 
 ## 🛠 &nbsp;Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextjs)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
-
-<br><br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ------------
- 
- <div align="center">  
-   <img 
-        height="180em" 
-        width="400em" 
-        src="https://github-readme-stats.vercel.app/api?username=BeatrizGivisiez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Minhas estatísticas"
-   />
-   <img 
-        height="180em" 
-        width="400em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGivisiez&layout=compact&langs_count=7&theme=tokyonight&custom_title=Linguagens mais usadas"
-   /> 
-</div>
-
-<h1 align="center">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Beatriz Givisiez!</h1> 
-
-<p align="center"><strong>Software specialist with undergraduation degree in Computer Information Systems.</strong></p>
-
-## Interests
-
-<p align="justify">8+ years experience in technology area, currently working as a Front-End Software Engineer, applying JavaScript Frameworks. Also have experience using ReactJS, NextJS, KnockoutJS and Angular frameworks.</p>
-
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez&color=yellow)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BeatrizGivisiez&color=yellow" alt="Profile views" /> </p>
-
-## Skills
-<div>  
+<div align="center">  
  <img 
        align="center" 
        alt="NodeJs" 
@@ -257,9 +149,12 @@
  > 
 </div>
 
-## Contacts
+-----------
+<br>
 
-<div align="left">    
+## 💬 &nbsp;Contact
+
+<div align="center">    
  <a href="mailto:beatriz.givisiez@hotmail.com" alt="Email" target="_blank">
   <img src="https://img.shields.io/badge/-Hotmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=beatriz.givisiez@hotmail.com" />
  </a>
@@ -280,6 +175,20 @@
  </a>
 </div>
 
-<img width="auto" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1596557625/ru5sj2goboqrtxl5d8m1.png"><br>
-<p align="center">In professional life, determination is worth more than talent. Have you ever tried to stop someone determined? Persistence is the keyword.</p>
-<p align="center">Na vida profissional, determinação vale mais do que talento. Você já tentou parar alguém determinado? Persistência é a palavra-chave.</p>
+-----------
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+ <div align="center">  
+   <img 
+        height="180em" 
+        width="400em" 
+        src="https://github-readme-stats.vercel.app/api?username=BeatrizGivisiez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Minhas estatísticas"
+   />
+   <img 
+        height="180em" 
+        width="400em" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGivisiez&layout=compact&langs_count=7&theme=tokyonight&custom_title=Linguagens mais usadas"
+   /> 
+</div>
