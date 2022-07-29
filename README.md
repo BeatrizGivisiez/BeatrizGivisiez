@@ -11,7 +11,7 @@
    /> 
 </div>
 
-<h1 align="center">Hello world, i'm Beatriz Givisiez 👋</h1> 
+<h1 align="center">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Beatriz Givisiez 👋</h1> 
 
 <p align="center"><strong>Software specialist with undergraduation degree in Computer Information Systems.</strong></p>
 
