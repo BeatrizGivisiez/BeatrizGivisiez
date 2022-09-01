@@ -3,8 +3,9 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Beatriz Givisiez</h1>
 
-<p align="justify">Software specialist with undergraduation degree in Computer Information Systems.</p>
-<p align="justify">8+ years experience in technology area, currently working as a Front-End Software Engineer, applying JavaScript Frameworks. Also have experience using ReactJS, NextJS, KnockoutJS and Angular frameworks.</p>
+<p align="justify">Specialist in Software Engineering and Graduated in Computer Information Systems. </p>
+<p align="justify">+8 years of experience technology area with a track record in multinational companies since 2013, currently working as a Front-End Software Engineer, applying JavaScript/TypeScript Frameworks. I also wirked with using ReactJS, NextJS, KnockoutJS and Angular frameworks with unit tests with high level of coverage, Git, API consumption and Agile Methodology Scrum, Kanban and DevOps.</p>
+<p align="justify">(I have experience in backend, database, artificial intelligence, SPA and RPA.)</p>
 
 -----------
 <br>
