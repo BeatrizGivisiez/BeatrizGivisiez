@@ -5,7 +5,7 @@
 
 <p align="justify">Specialist in Software Engineering and Graduated in Computer Information Systems. </p>
 <p align="justify">+8 years of experience technology area with a track record in multinational companies since 2013. </p>
-<p align="justify">currently working as a Front-End Software Engineer, applying JavaScript/TypeScript Frameworks. I also wirked with using ReactJS, NextJS, KnockoutJS and Angular frameworks with unit tests with high level of coverage, Git, API consumption and Agile Methodology Scrum, Kanban and DevOps. </p>
+<p align="justify">Currently working as a Front-End Software Engineer, applying JavaScript/TypeScript Frameworks. I also wirked with using ReactJS, NextJS, KnockoutJS and Angular frameworks with unit tests with high level of coverage, Git, API consumption and Agile Methodology Scrum, Kanban and DevOps. </p>
 <p align="justify">(I have experience in backend, database, artificial intelligence, SPA and RPA.) </p>
 
 -----------
