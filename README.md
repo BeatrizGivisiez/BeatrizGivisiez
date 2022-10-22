@@ -235,21 +235,3 @@
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
 </div>
-
------------
-<br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
- <div align="center">  
-   <img 
-        height="150em" 
-        width="300em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGivisiez&layout=compact&langs_count=7&theme=tokyonight&custom_title=Linguagens mais usadas"
-   /> 
- <img 
-        height="150em" 
-        width="350em" 
-        src="https://github-readme-stats.vercel.app/api?username=BeatrizGivisiez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Minhas estatísticas"
-   />
-</div>
