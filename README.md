@@ -4,7 +4,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Beatriz Givisiez</h1>
 
 <p align="justify">MBA in Software Engineering and a Bachelor's degree in Computer Information Systems. </p>
-<p align="justify">+12 years of experience in the technology field, with a strong background in multinational companies since 2013. <br/> Throughout my career, I have specialized in front-end development using JavaScript/TypeScript frameworks such as ReactJS, NextJS, KnockoutJS, and Angular. </p>
+<p align="justify">13+ years of experience in the technology field, with a strong background in multinational companies since 2013. <br/> Throughout my career, I have specialized in front-end development using JavaScript/TypeScript frameworks such as ReactJS, NextJS, KnockoutJS, and Angular. </p>
 <p align="justify">I have been responsible for the architecture and implementation of front-end solutions, the creation of reusable components and white-label systems, as well as the technical leadership of development teams. My experience includes writing high-coverage unit tests, API integration, version control with Git, and applying Agile methodologies such as Scrum, Kanban, and DevOps practices. I also conducted code reviews, mentored developers, and stayed aligned with industry best practices and trends. </p>
 <p align="justify">(I have experience in backend, database, artificial intelligence, SPA and RPA.) </p>
 
